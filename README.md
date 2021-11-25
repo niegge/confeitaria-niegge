@@ -1,3 +1,3 @@
 # confeitaria-niegge
  
-live preview: https://naughty-panini-31c31b.netlify.app/
+live preview: niegge-confeitaria.netlify.app
